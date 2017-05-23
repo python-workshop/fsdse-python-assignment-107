@@ -1,4 +1,4 @@
-# Implement a hash table
+# Implement a hash table with set, get, and remove methods.
 
 ## Constraints
 * For simplicity, are the keys integers only?
